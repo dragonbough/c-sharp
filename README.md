@@ -5,5 +5,5 @@
 
 
 
-<h2 style="text-align:center;">coming soon...</h2>
+<h2 align="center">coming soon...</h2>
 
